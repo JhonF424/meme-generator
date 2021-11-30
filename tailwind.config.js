@@ -14,8 +14,8 @@ module.exports = {
     { // https://tailwindcss.com/docs/customizing-colors#color-palette-reference
       colors: {
         teal: colors.teal,
-        'light-blue': colors.sky,
         'orange': colors.orange,
+        'light-blue': colors.sky,
         gray: {
           light: 'var(--gray-light)',
           DEFAULT: 'var(--gray-default)',
